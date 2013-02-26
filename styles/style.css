@@ -6,16 +6,16 @@ html, body, ul, ol, li, form, fieldset, legend, h1, h2, h3, h4, h5, h6, p, img {
 	border:0;
 }
 
-li { 
-	list-style: none; 
+li {
+	list-style: none;
 }
 
-sup { 
-	vertical-align: text-top; 
+sup {
+	vertical-align: text-top;
 }
 
-sub { 
-	vertical-align: text-bottom; 
+sub {
+	vertical-align: text-bottom;
 }
 
 table {
@@ -49,6 +49,7 @@ body {
 	font-size:85%;
 	color:#fff;
 	line-height:1.5em;
+	border-top:6px solid #FFA200;
 }
 
 h1 {
